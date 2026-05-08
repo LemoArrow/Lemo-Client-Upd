@@ -1,7 +1,7 @@
 # Lemo-Client
 
 Thank you guys for visiting this github page!
----
+https://www.google.com/imgres?q=goofy%20ahh%20photos&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F2c%2F5c%2F30%2F2c5c30a58c233c1a2c4e728106356700.jpg&imgrefurl=https%3A%2F%2Fde.pinterest.com%2Fpin%2F1001-goofy-ahh-picture--997336279967923652%2F&docid=lRpBOLZTs5_Q7M&tbnid=uJ0FUVu4xzogTM&vet=12ahUKEwiY-rSZ1qiUAxUTMVkFHZWgHvAQnPAOegQIcRAB..i&w=660&h=660&hcb=2&ved=2ahUKEwiY-rSZ1qiUAxUTMVkFHZWgHvAQnPAOegQIcRAB--
 
 <p align="center">
 	<a href="><img src="
@@ -32,4 +32,5 @@ Let's bring back the collaboration of modding. No paywalls, no secrets, no malwa
 	If u are modding but if not hell no.
 - Give credit where it's due.
 - No shady stuff.
+
 
