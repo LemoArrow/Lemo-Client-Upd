@@ -33,4 +33,3 @@ Let's bring back the collaboration of modding. No paywalls, no secrets, no malwa
 - Give credit where it's due.
 - No shady stuff.
 
-
