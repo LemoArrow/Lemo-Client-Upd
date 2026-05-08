@@ -4,9 +4,10 @@ Thank you guys for visiting this github page!
 ---
 
 <p align="center">
-	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases"><img src="https://img.shields.io/github/v/release/iiDk-the-actual/iis.Stupid.Menu?label=version&style=for-the-badge"></a>
+	<a href="><img src="
+		https://github.com/LemoArrow/Lemo-Client-Upd/releases"badge"></a>
 	<a href="(https://github.com/LemoArrow/Lemo-Client-Upd/releases)"><img
-	<a href="h"><img src="https://img.shields.io/discord/1170093288557129748?label=discord&style=for-the-badge&color=blueviolet"></a>
+	<a href="h"><img 
 
 
 Xmas Modz Menu is a **feature-packed** mod menu for Grab, built by me,Lemoarrow. https://github.com/LemoArrow/Lemo-Client-Upd Whether you just want mods, are a developer, or anything inbetween, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content. 
@@ -31,3 +32,5 @@ Let's bring back the collaboration of modding. No paywalls, no secrets, no malwa
 	If u are modding but if not hell no.
 - Give credit where it's due.
 - No shady stuff.
+
+
